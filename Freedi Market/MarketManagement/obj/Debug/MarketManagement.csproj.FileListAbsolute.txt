@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Mrkt-master\MarketManagement\bin\Debug\MarketManagement.exe.config
+C:\Users\User\Desktop\Mrkt-master\MarketManagement\bin\Debug\MarketManagement.exe
+C:\Users\User\Desktop\Mrkt-master\MarketManagement\bin\Debug\MarketManagement.pdb
+C:\Users\User\Desktop\Mrkt-master\MarketManagement\obj\Debug\MarketManagement.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Mrkt-master\MarketManagement\obj\Debug\MarketManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mrkt-master\MarketManagement\obj\Debug\MarketManagement.exe
+C:\Users\User\Desktop\Mrkt-master\MarketManagement\obj\Debug\MarketManagement.pdb
+C:\Users\User\Desktop\Freedi Market\MarketManagement\bin\Debug\MarketManagement.exe.config
+C:\Users\User\Desktop\Freedi Market\MarketManagement\bin\Debug\MarketManagement.exe
+C:\Users\User\Desktop\Freedi Market\MarketManagement\bin\Debug\MarketManagement.pdb
+C:\Users\User\Desktop\Freedi Market\MarketManagement\obj\Debug\MarketManagement.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Freedi Market\MarketManagement\obj\Debug\MarketManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Freedi Market\MarketManagement\obj\Debug\MarketManagement.exe
+C:\Users\User\Desktop\Freedi Market\MarketManagement\obj\Debug\MarketManagement.pdb
